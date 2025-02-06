@@ -1,1 +1,1 @@
-This project is all about building website
+This project is all about building website and trying to be better from every step.
