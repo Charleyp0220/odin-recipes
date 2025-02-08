@@ -1,0 +1,22 @@
+body{
+    background-color: lightcyan;
+    font-family: Georgia, 'Times New Roman', Times, sans-seri';
+}
+.head-div{
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 600px;
+    
+}
+.rr {
+    width: 150px;
+    height: 10px;
+    padding: auto;
+    background-color: green;
+    color: black;
+    margin: 50px auto;
+    padding: 30px;
+    font-weight: bold;
+    font-size: 20px;
+}
